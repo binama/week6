@@ -74,6 +74,7 @@ class Student:
               f' номер телефона: {self.phone_number} средний бал: {self.sredniy_bal}')
 
 
+
     def set_sredniy_bal(self):
         result = sum(self.lesson.values()) / len(self.lesson)
         self.sredniy_bal = round(result)

@@ -5,6 +5,7 @@ from datetime import  timedelta
 
 
 
+
 # date_2 = datetime.date(2022, 5, 25)
 # time_2 = datetime.time(13, 30)
 # all_date = datetime.datetime.combine(date_2, time_2)  #Объединение
